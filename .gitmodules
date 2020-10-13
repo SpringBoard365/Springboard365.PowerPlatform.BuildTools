@@ -1,0 +1,15 @@
+[submodule "SolutionVersioner"]
+	path = SolutionVersioner
+	url = https://github.com/SpringBoard365/Springboard365.Tools.DynamicsCrm.SolutionVersioner
+[submodule "ExportCustomizations"]
+	path = ExportCustomizations
+	url = https://github.com/SpringBoard365/Springboard365.Tools.DynamicsCrm.ExportCustomizations
+[submodule "CommandLine"]
+	path = CommandLine
+	url = https://github.com/SpringBoard365/Springboard365.Tools.CommandLine.Core
+[submodule "ImportCustomizations"]
+	path = ImportCustomizations
+	url = https://github.com/SpringBoard365/Springboard365.Tools.DynamicsCrm.ImportCustomizations
+[submodule "PowerPlatformCommon"]
+	path = PowerPlatformCommon
+	url = https://github.com/SpringBoard365/Springboard365.Tools.DynamicsCrm.Common
