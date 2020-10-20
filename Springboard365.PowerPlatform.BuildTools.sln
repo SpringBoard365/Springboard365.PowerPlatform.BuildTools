@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Springboard365.Tools.DynamicsCrm.ExportCustomizations", "ExportCustomizations\Springboard365.Tools.DynamicsCrm.ExportCustomizations\Springboard365.Tools.DynamicsCrm.ExportCustomizations.csproj", "{AC9D38C0-FFCB-4703-8A5C-6D1324D0778F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportCustomizations", "ExportCustomizations\src\ExportCustomizations.csproj", "{AC9D38C0-FFCB-4703-8A5C-6D1324D0778F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Springboard365.PowerPlatform.BuildTools", "Springboard365.PowerPlatform.BuildTools\Springboard365.PowerPlatform.BuildTools.csproj", "{29FB945A-9AA3-49A5-A27E-B41FC9959B2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPlatform.BuildTools", "src\PowerPlatform.BuildTools.csproj", "{29FB945A-9AA3-49A5-A27E-B41FC9959B2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Springboard365.Tools.DynamicsCrm.SolutionVersioner", "SolutionVersioner\Springboard365.Tools.DynamicsCrm.SolutionVersioner\Springboard365.Tools.DynamicsCrm.SolutionVersioner.csproj", "{F1DABBB0-0140-4CC1-A0E0-5E82DFB9A1FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolutionVersioner", "SolutionVersioner\src\SolutionVersioner.csproj", "{F1DABBB0-0140-4CC1-A0E0-5E82DFB9A1FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Springboard365.Tools.CommandLine.Core", "CommandLine\Springboard365.Tools.CommandLine.Core\Springboard365.Tools.CommandLine.Core.csproj", "{67567A13-CB46-4EF2-A2C0-3B1C038C159E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandLine.Core", "CommandLine\src\CommandLine.Core.csproj", "{67567A13-CB46-4EF2-A2C0-3B1C038C159E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Springboard365.Tools.DynamicsCrm.Common", "PowerPlatformCommon\Springboard365.Tools.DynamicsCrm.Common\Springboard365.Tools.DynamicsCrm.Common.csproj", "{64D1A673-2607-436B-BF09-B40986B25E83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicsCrm.Common", "PowerPlatformCommon\src\DynamicsCrm.Common.csproj", "{64D1A673-2607-436B-BF09-B40986B25E83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Springboard365.Tools.DynamicsCrm.ImportCustomizations", "ImportCustomizations\Springboard365.Tools.DynamicsCrm.ImportCustomizations\Springboard365.Tools.DynamicsCrm.ImportCustomizations.csproj", "{2C15F602-15C3-48D1-9FE0-ACF1FBFAD5D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportCustomizations", "ImportCustomizations\src\ImportCustomizations.csproj", "{2C15F602-15C3-48D1-9FE0-ACF1FBFAD5D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
